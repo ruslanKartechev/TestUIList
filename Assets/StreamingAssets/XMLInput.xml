@@ -1,0 +1,14 @@
+<People>	
+	<Person>
+		<firstName> John </firstName>
+		<lastName> Smith </lastName>
+	</Person>
+	<Person>
+		<firstName> Mick </firstName>
+		<lastName> Beck </lastName>
+	</Person>
+	<Person>
+		<firstName> Phil </firstName>
+		<lastName> Shmill </lastName>
+	</Person>
+</People>

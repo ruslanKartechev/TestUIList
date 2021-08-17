@@ -1,0 +1,2 @@
+firstNames: biba, boba, cuba, scuba, moomba
+lastNames: morozova, snegirevna, vishneva, kinsheva, lenevieva

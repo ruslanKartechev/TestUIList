@@ -1,0 +1,22 @@
+<People>
+  <Person>
+    <firstName>Alex</firstName>
+    <lastName>Crowley</lastName>
+  </Person>
+  <Person>
+    <firstName>Philex</firstName>
+    <lastName>McDonalds</lastName>
+  </Person>
+  <Person>
+    <firstName>Martin</firstName>
+    <lastName>McCaffe</lastName>
+  </Person>
+  <Person>
+    <firstName>James</firstName>
+    <lastName>Jenson</lastName>
+  </Person>
+  <Person>
+    <firstName>Lawrence</firstName>
+    <lastName>Benson</lastName>
+  </Person>
+</People>
